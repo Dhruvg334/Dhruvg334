@@ -73,11 +73,11 @@ I design products *around* AI models — architecture, data flow, retrieval, hum
 <br>
 <sub>React · Supabase · Gemini API · Vercel · GitHub Actions</sub>
 
-**[Physics Study Buddy](#)** <!-- add repo URL --> — LangGraph agentic-RAG tutor: grounded answers, routing, memory, calculator tool use, RAGAS-style evaluation.
+**[Physics Study Buddy](https://github.com/Dhruvg334/Physics-Study-Buddy)** <!-- add repo URL --> — LangGraph agentic-RAG tutor: grounded answers, routing, memory, calculator tool use, RAGAS-style evaluation.
 <br>
 <sub>Python · LangGraph · ChromaDB · Groq · LLaMA 3.3 70B · Streamlit · RAGAS</sub>
 
-**[Closira AI Workflows](#)** <!-- add repo URL --> — Backend AI workflow prototypes: SOP-grounded support automation, escalation logic, lead qualification, structured summaries and logs.
+**[Closira AI Workflows](https://github.com/Dhruvg334/closira-smb-support-agent)** <!-- add repo URL --> — Backend AI workflow prototypes: SOP-grounded support automation, escalation logic, lead qualification, structured summaries and logs.
 <br>
 <sub>Python · FastAPI · LangGraph · Pydantic · SQLAlchemy · SQLite</sub>
 
@@ -86,9 +86,6 @@ I design products *around* AI models — architecture, data flow, retrieval, hum
 ## 📊 GitHub
 
 <div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Dhruvg334&show_icons=true&hide_border=true&count_private=true&theme=tokyonight" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhruvg334&layout=compact&hide_border=true&theme=tokyonight" alt="Top languages" />
 
 <img height="165" src="https://streak-stats.demolab.com?user=Dhruvg334&hide_border=true&theme=tokyonight" alt="Streak" />
 
