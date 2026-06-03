@@ -3,7 +3,7 @@
 # Hi, I'm Dhruv 👋
 
 <a href="https://github.com/DenverCoder1/readme-typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=900&center=true&vCenter=true&width=720&color=58A6FF&lines=Building+reliable+systems+around+AI+agents;Agentic+workflows+%C2%B7+RAG+%C2%B7+Evaluation;Final-year+B.Tech+CSE+%40+KIIT;Production-aware%2C+evidence-backed" alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=900&center=true&vCenter=true&width=760&color=58A6FF&lines=Building+AI+systems+with+real+engineering+depth;Agentic+AI+%C2%B7+RAG+%C2%B7+Backend+Workflows;Reliability+%C2%B7+Evaluation+%C2%B7+Human-in-the-loop+AI;Final-year+B.Tech+CSE+%40+KIIT" alt="Typing intro" />
 </a>
 
 <p>
@@ -15,7 +15,31 @@
 
 </div>
 
-I design products *around* AI models — architecture, data flow, retrieval, human review, fallback handling, evaluation, and deployment. Currently going deep on **agent reliability** and **evaluation methodology**.
+I build practical AI systems around **LLMs, RAG pipelines, backend APIs, workflow automation, and product logic**.
+
+My current focus is becoming an **AI Systems Builder**: someone who understands not only how to use AI models, but how to design reliable products around them — architecture, data flow, retrieval quality, fallback handling, human review, evaluation, deployment, and maintainability.
+
+---
+
+## 🚀 Core Projects
+
+### [Niswarth AI](https://github.com/Dhruvg334/niswarth-ai)
+
+Full-stack AI workflow platform for NGOs to manage campaigns, volunteers, field updates, and human-reviewed impact reports.
+
+<sub>React · Vite · Tailwind CSS · Supabase · Gemini API · Vercel · GitHub Actions</sub>
+
+### [Physics Study Buddy](https://github.com/Dhruvg334/Physics-Study-Buddy)
+
+LangGraph-based Agentic RAG assistant for physics learning with routing, memory, calculator tool use, retrieval grounding, Streamlit UI, and RAGAS-style evaluation.
+
+<sub>Python · LangGraph · ChromaDB · Groq · LLaMA 3.3 70B · Streamlit · RAGAS</sub>
+
+### [Closira AI Workflows](https://github.com/Dhruvg334/closira-smb-support-agent)
+
+SOP-grounded customer support workflow with escalation logic, lead qualification, structured summaries, fallback handling, and backend workflow prototypes.
+
+<sub>Python · LangGraph · Gemini · Pydantic · FastAPI · SQLAlchemy · SQLite</sub>
 
 ---
 
@@ -23,14 +47,13 @@ I design products *around* AI models — architecture, data flow, retrieval, hum
 
 **AI / LLM Systems**
 
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG-4B5563?style=flat-square)
 ![RAGAS](https://img.shields.io/badge/RAGAS-4B5563?style=flat-square)
 ![Gemini](https://img.shields.io/badge/Gemini_API-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 ![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square)
-![Evaluation](https://img.shields.io/badge/Eval_%26_Tool_Use-4B5563?style=flat-square)
 
 **Backend / Systems**
 
@@ -47,6 +70,7 @@ I design products *around* AI models — architecture, data flow, retrieval, hum
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-4B5563?style=flat-square)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![Vector Search](https://img.shields.io/badge/Vector_Search-4B5563?style=flat-square)
 
 **Frontend / Product**
 
@@ -67,40 +91,35 @@ I design products *around* AI models — architecture, data flow, retrieval, hum
 
 ---
 
-## 🚀 Featured Projects
+## 🧠 How I Build
 
-**[Niswarth AI](https://github.com/Dhruvg334/niswarth-ai)** — Full-stack AI platform for NGOs: campaigns, volunteers, field updates, and human-reviewed impact reports.
-<br>
-<sub>React · Supabase · Gemini API · Vercel · GitHub Actions</sub>
+> I do not treat AI output as automatically correct.  
+> I care about retrieval quality, structured workflows, fallback paths, logs, tests, human review, and clear limitations.
 
-**[Physics Study Buddy](https://github.com/Dhruvg334/Physics-Study-Buddy)** <!-- add repo URL --> — LangGraph agentic-RAG tutor: grounded answers, routing, memory, calculator tool use, RAGAS-style evaluation.
-<br>
-<sub>Python · LangGraph · ChromaDB · Groq · LLaMA 3.3 70B · Streamlit · RAGAS</sub>
+Current learning direction:
 
-**[Closira AI Workflows](https://github.com/Dhruvg334/closira-smb-support-agent)** <!-- add repo URL --> — Backend AI workflow prototypes: SOP-grounded support automation, escalation logic, lead qualification, structured summaries and logs.
-<br>
-<sub>Python · FastAPI · LangGraph · Pydantic · SQLAlchemy · SQLite</sub>
+- Agentic workflows with state, tools, routing, and evaluation
+- RAG systems with better retrieval and grounding
+- Full-stack AI products with auth, persistence, CI, and deployment
+- Backend systems that are easier to debug, test, and extend
+- Building more independently without over-relying on AI assistance
 
 ---
 
-## 📊 GitHub
+## 📊 GitHub Activity
 
 <div align="center">
 
-<img height="165" src="https://streak-stats.demolab.com?user=Dhruvg334&hide_border=true&theme=tokyonight" alt="Streak" />
+<img height="165" src="https://streak-stats.demolab.com?user=Dhruvg334&hide_border=true&theme=tokyonight" alt="GitHub Streak" />
+
+<br>
 
 </div>
 
 ---
 
-## 🧠 How I Build
-
-> AI output is validated, not trusted. RAG lives or dies on retrieval quality, not prompt wording. A real product needs persistence, logs, tests, and fallback paths — and human review wherever the model can make unsupported claims.
-
----
-
 ## 🎓 Background
 
-`B.Tech CSE @ KIIT`  ·  `CGPA 9.46`  ·  `GATE DA 2026 — AIR 1102`
+`Final-year B.Tech CSE @ KIIT` · `CGPA 9.45` · `GATE DA 2026 — AIR 1102`
 
-<sub>🌱 Off the clock: weekend AI-community forums, learning in public, and yoga.</sub>
+<sub>Currently improving my depth in AI systems, backend architecture, deployment reliability, and production-aware engineering.</sub>
