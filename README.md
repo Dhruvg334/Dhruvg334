@@ -15,7 +15,7 @@
 
 </div>
 
-I build practical AI systems around **LLMs, RAG pipelines, backend APIs, workflow automation, and product logic**.
+I build practical AI systems around **LLMs, RAG pipelines, backend APIs, workflow automation, data workflows, and product logic**.
 
 My current focus is becoming an **AI Systems Builder**: someone who understands not only how to use AI models, but how to design reliable products around them — architecture, data flow, retrieval quality, fallback handling, human review, evaluation, deployment, and maintainability.
 
@@ -25,9 +25,9 @@ My current focus is becoming an **AI Systems Builder**: someone who understands 
 
 ### [Niswarth AI](https://github.com/Dhruvg334/niswarth-ai)
 
-Full-stack AI workflow platform for NGOs to manage campaigns, volunteers, field updates, and human-reviewed impact reports.
+Full-stack AI workflow platform for NGOs to manage campaigns, volunteers, field updates, and human-reviewed impact reports inside organization-scoped workspaces.
 
-<sub>React · Vite · Tailwind CSS · Supabase · Gemini API · Vercel · GitHub Actions</sub>
+<sub>React · Vite · Tailwind CSS · Supabase Auth/Postgres/RLS · Gemini 2.5 Flash · Vercel · GitHub Actions</sub>
 
 ### [Physics Study Buddy](https://github.com/Dhruvg334/Physics-Study-Buddy)
 
@@ -37,9 +37,19 @@ LangGraph-based Agentic RAG assistant for physics learning with routing, memory,
 
 ### [Closira AI Workflows](https://github.com/Dhruvg334/closira-smb-support-agent)
 
-SOP-grounded customer support workflow with escalation logic, lead qualification, structured summaries, fallback handling, and backend workflow prototypes.
+SOP-grounded customer support workflow with escalation logic, lead qualification, structured summaries, fallback handling, JSONL logs, and a companion FastAPI enquiry backend.
 
 <sub>Python · LangGraph · Gemini · Pydantic · FastAPI · SQLAlchemy · SQLite</sub>
+
+---
+
+## 🧪 Other Technical Work
+
+### [Gridlock 2.0 Traffic Demand Prediction](https://github.com/Dhruvg334/gridlock2-bambarbola)
+
+Hackathon ML submission for 15-minute traffic demand forecasting using gradient boosting, nowcast blending, feature engineering, and model ensembling.
+
+<sub>Python · pandas · scikit-learn · CatBoost · LightGBM · Jupyter Notebook · Forecasting</sub>
 
 ---
 
@@ -64,13 +74,15 @@ SOP-grounded customer support workflow with escalation logic, lead qualification
 ![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
 
-**Data / Retrieval**
+**Data / Retrieval / ML**
 
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-4B5563?style=flat-square)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 ![Vector Search](https://img.shields.io/badge/Vector_Search-4B5563?style=flat-square)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![LightGBM](https://img.shields.io/badge/LightGBM-4B5563?style=flat-square)
 
 **Frontend / Product**
 
@@ -102,6 +114,7 @@ Current learning direction:
 - RAG systems with better retrieval and grounding
 - Full-stack AI products with auth, persistence, CI, and deployment
 - Backend systems that are easier to debug, test, and extend
+- ML fundamentals through practical modelling, evaluation, and forecasting work
 - Building more independently without over-relying on AI assistance
 
 ---
@@ -112,8 +125,6 @@ Current learning direction:
 
 <img height="165" src="https://streak-stats.demolab.com?user=Dhruvg334&hide_border=true&theme=tokyonight" alt="GitHub Streak" />
 
-<br>
-
 </div>
 
 ---
@@ -122,4 +133,4 @@ Current learning direction:
 
 `Final-year B.Tech CSE @ KIIT` · `CGPA 9.45` · `GATE DA 2026 — AIR 1102`
 
-<sub>Currently improving my depth in AI systems, backend architecture, deployment reliability, and production-aware engineering.</sub>
+<sub>Currently improving my depth in AI systems, backend architecture, deployment reliability, ML fundamentals, and production-aware engineering.</sub>
