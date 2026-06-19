@@ -3,7 +3,7 @@
 # Hi, I'm Dhruv 👋
 
 <a href="https://github.com/DenverCoder1/readme-typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=900&center=true&vCenter=true&width=760&color=58A6FF&lines=Building+AI+systems+with+real+engineering+depth;Agentic+AI+%C2%B7+RAG+%C2%B7+Backend+Workflows;Reliability+%C2%B7+Evaluation+%C2%B7+Human-in-the-loop+AI;Final-year+B.Tech+CSE+%40+KIIT" alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=900&center=true&vCenter=true&width=760&color=58A6FF&lines=Building+AI+systems+with+real+engineering+depth;AI+Systems+%C2%B7+Agentic+AI+%C2%B7+RAG;Backend+Workflows+%C2%B7+Reliability+%C2%B7+Evaluation;Final-year+B.Tech+CSE+%40+KIIT" alt="Typing intro" />
 </a>
 
 <p>
@@ -15,9 +15,7 @@
 
 </div>
 
-I build practical AI systems around **LLMs, RAG pipelines, backend APIs, workflow automation, data workflows, and product logic**.
-
-My current focus is becoming an **AI Systems Builder**: someone who understands not only how to use AI models, but how to design reliable products around them — architecture, data flow, retrieval quality, fallback handling, human review, evaluation, deployment, and maintainability.
+I build practical AI systems around **LLMs, RAG, backend APIs, workflow automation, human review, evaluation, and deployment-aware engineering**.
 
 ---
 
@@ -25,29 +23,41 @@ My current focus is becoming an **AI Systems Builder**: someone who understands 
 
 ### [Niswarth AI](https://github.com/Dhruvg334/niswarth-ai)
 
-Full-stack AI workflow platform for NGOs to manage campaigns, volunteers, field updates, and human-reviewed impact reports inside organization-scoped workspaces.
+Full-stack AI workflow platform for NGOs with workspaces, roles, field updates, Gemini-assisted report drafts, human review, audit logs, and version history.
 
 <sub>React · Vite · Tailwind CSS · Supabase Auth/Postgres/RLS · Gemini 2.5 Flash · Vercel · GitHub Actions</sub>
 
+### [A-DAP-T](https://a-dap-t.vercel.app/)
+
+Deployed AI-agent risk scanner for detecting exposed secrets, unsafe tool permissions, missing approval gates, weak auditability, prompt-injection risks, and sensitive data exposure.
+
+<sub>FastAPI · Python · Pydantic · Firebase Auth · Firestore · Gemini · JavaScript · Vercel · Render</sub>
+
 ### [Physics Study Buddy](https://github.com/Dhruvg334/Physics-Study-Buddy)
 
-LangGraph-based Agentic RAG assistant for physics learning with routing, memory, calculator tool use, retrieval grounding, Streamlit UI, and RAGAS-style evaluation.
+LangGraph-based Agentic RAG assistant for physics learning with retrieval, memory, calculator tool use, fallback handling, and RAGAS-style evaluation.
 
 <sub>Python · LangGraph · ChromaDB · Groq · LLaMA 3.3 70B · Streamlit · RAGAS</sub>
 
 ### [Closira AI Workflows](https://github.com/Dhruvg334/closira-smb-support-agent)
 
-SOP-grounded customer support workflow with escalation logic, lead qualification, structured summaries, fallback handling, JSONL logs, and a companion FastAPI enquiry backend.
+SOP-grounded support workflow with escalation logic, lead qualification, deterministic fallback, JSONL logs, and a companion FastAPI enquiry backend.
 
 <sub>Python · LangGraph · Gemini · Pydantic · FastAPI · SQLAlchemy · SQLite</sub>
 
 ---
 
-## 🧪 Other Technical Work
+## 🧪 Hackathon / Supporting Work
+
+### [AIDYN](https://github.com/Akkshita06/AIDYN-AI-Disaster-Yield-Network-)
+
+Explainable crisis-response prioritization dashboard with deterministic scoring, human review, resource-gap matching, response tasks, and responder-ready briefs.
+
+<sub>React · Vite · Tailwind CSS · FastAPI · Python · Pydantic · Pytest</sub>
 
 ### [Gridlock 2.0 Traffic Demand Prediction](https://github.com/Dhruvg334/gridlock2-bambarbola)
 
-Hackathon ML submission for 15-minute traffic demand forecasting using gradient boosting, nowcast blending, feature engineering, and model ensembling.
+Traffic demand forecasting hackathon submission using feature engineering, gradient boosting, nowcast blending, and model ensembling.
 
 <sub>Python · pandas · scikit-learn · CatBoost · LightGBM · Jupyter Notebook · Forecasting</sub>
 
@@ -58,64 +68,59 @@ Hackathon ML submission for 15-minute traffic demand forecasting using gradient 
 **AI / LLM Systems**
 
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square\&logo=langchain\&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG-4B5563?style=flat-square)
 ![RAGAS](https://img.shields.io/badge/RAGAS-4B5563?style=flat-square)
-![Gemini](https://img.shields.io/badge/Gemini_API-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini_API-8E75B2?style=flat-square\&logo=googlegemini\&logoColor=white)
 ![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square)
 
 **Backend / Systems**
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white)
-![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square\&logo=fastapi\&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square\&logo=nodedotjs\&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square\&logo=express\&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square\&logo=sqlalchemy\&logoColor=white)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat-square\&logo=pydantic\&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square\&logo=jsonwebtokens\&logoColor=white)
 
 **Data / Retrieval / ML**
 
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square\&logo=supabase\&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square\&logo=firebase\&logoColor=black)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-4B5563?style=flat-square)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square\&logo=mongodb\&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square\&logo=sqlite\&logoColor=white)
 ![Vector Search](https://img.shields.io/badge/Vector_Search-4B5563?style=flat-square)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![LightGBM](https://img.shields.io/badge/LightGBM-4B5563?style=flat-square)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square\&logo=scikitlearn\&logoColor=white)
 
 **Frontend / Product**
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square\&logo=react\&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square\&logo=vite\&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square\&logo=tailwindcss\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square\&logo=streamlit\&logoColor=white)
 
 **Automation / Dev Tools**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
-![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=flat-square&logo=twilio&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square\&logo=githubactions\&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square\&logo=vercel\&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square\&logo=render\&logoColor=black)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square\&logo=n8n\&logoColor=white)
 
 ---
 
-## 🧠 How I Build
+## 🧠 Engineering Direction
 
-> I do not treat AI output as automatically correct.  
-> I care about retrieval quality, structured workflows, fallback paths, logs, tests, human review, and clear limitations.
+> I care about building AI systems that can be inspected, tested, reviewed, and improved.
 
-Current learning direction:
-
-- Agentic workflows with state, tools, routing, and evaluation
-- RAG systems with better retrieval and grounding
-- Full-stack AI products with auth, persistence, CI, and deployment
-- Backend systems that are easier to debug, test, and extend
-- ML fundamentals through practical modelling, evaluation, and forecasting work
-- Building more independently without over-relying on AI assistance
+* Reliable workflows over flashy demos
+* Human review before high-impact automation
+* Deterministic logic where AI should not decide
+* Logs, tests, fallbacks, and clear limitations
+* Better RAG, evaluation, backend architecture, and deployment depth
 
 ---
 
@@ -133,4 +138,4 @@ Current learning direction:
 
 `Final-year B.Tech CSE @ KIIT` · `CGPA 9.45` · `GATE DA 2026 — AIR 1102`
 
-<sub>Currently improving my depth in AI systems, backend architecture, deployment reliability, ML fundamentals, and production-aware engineering.</sub>
+<sub>Currently focused on AI systems engineering, agent workflows, backend reliability, evaluation, and production-aware AI products.</sub>
